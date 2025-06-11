@@ -1,0 +1,101 @@
+id,DUNS Number,Company Name,Address,Contact,Phone
+1,689964,Company 1 Ltd.,"1 Main St, City 1",Contact 1,802-912-5521
+2,,Company 2 Ltd.,"2 Main St, City 2",Contact 2 Smith,746-235-3319
+3,688009,Company 3 Limited,"3 Main St, City 3",Contact 3,274-816-4803
+4,593685,Company 4 Ltd.,"4 Main St, City 4",Contact 4,909-546-6329
+5,789361,Company 5 Limited,"5 Main Street, CT 5",Contact 5 Smith,135-823-1422
+6,,Company 6 Ltd.,"6 Main Street, CT 6",Contact 6 Smith,523-411-9853
+7,484625,Company 7,"7 Main St, City 7",Contact 7 Smith,811-759-9679
+8,,Company 8,"8 Main Street, CT 8",Contact 8,337-697-8501
+9,891887,Company 9,"9 Main Street, CT 9",Contact 9 Smith,694-855-1328
+10,,Company 10,"10 Main St, City 10",Contact 10,330-977-3242
+11,,Company 11,"11 Main Street, CT 11",Contact 11,241-850-6862
+12,221883,Company 12 Limited,"12 Main St, City 12",Contact 12 Smith,192-918-8664
+13,,Company 13,"13 Main Street, CT 13",Contact 13 Smith,325-718-1224
+14,,Company 14,"14 Main Street, CT 14",Contact 14,519-875-5056
+15,752153,Company 15 Ltd.,"15 Main Street, CT 15",Contact 15 Smith,234-590-1950
+16,931711,Company 16,"16 Main St, City 16",Contact 16 Smith,904-682-1949
+17,,Company 17 Limited,"17 Main Street, CT 17",Contact 17,602-621-6078
+18,537888,Company 18 Ltd.,"18 Main Street, CT 18",Contact 18 Smith,610-763-9875
+19,,Company 19 Ltd.,"19 Main Street, CT 19",Contact 19 Smith,414-439-9751
+20,,Company 20 Limited,"20 Main St, City 20",Contact 20,433-372-9129
+21,,Company 21,"21 Main Street, CT 21",Contact 21 Smith,618-763-4162
+22,202870,Company 22 Ltd.,"22 Main Street, CT 22",Contact 22,272-525-2759
+23,,Company 23 Limited,"23 Main Street, CT 23",Contact 23,545-503-1558
+24,272877,Company 24 Limited,"24 Main St, City 24",Contact 24,970-106-3229
+25,658388,Company 25 Ltd.,"25 Main St, City 25",Contact 25,595-512-9531
+26,892757,Company 26 Limited,"26 Main St, City 26",Contact 26 Smith,906-636-8138
+27,,Company 27,"27 Main Street, CT 27",Contact 27,447-489-4119
+28,,Company 28,"28 Main Street, CT 28",Contact 28 Smith,116-647-1329
+29,611776,Company 29 Limited,"29 Main St, City 29",Contact 29,168-325-2427
+30,661368,Company 30 Ltd.,"30 Main St, City 30",Contact 30 Smith,312-639-1759
+31,,Company 31 Limited,"31 Main St, City 31",Contact 31,860-613-2106
+32,,Company 32 Limited,"32 Main St, City 32",Contact 32,714-965-6650
+33,,Company 33 Ltd.,"33 Main Street, CT 33",Contact 33 Smith,380-515-6949
+34,,Company 34 Limited,"34 Main St, City 34",Contact 34 Smith,700-776-8948
+35,,Company 35 Ltd.,"35 Main St, City 35",Contact 35,285-875-7979
+36,,Company 36 Ltd.,"36 Main St, City 36",Contact 36 Smith,909-816-1211
+37,607027,Company 37 Limited,"37 Main Street, CT 37",Contact 37,355-901-2513
+38,448650,Company 38,"38 Main Street, CT 38",Contact 38,823-281-1148
+39,721171,Company 39,"39 Main St, City 39",Contact 39,461-315-8530
+40,,Company 40 Ltd.,"40 Main Street, CT 40",Contact 40 Smith,518-481-6563
+41,695828,Company 41 Limited,"41 Main St, City 41",Contact 41 Smith,434-361-6098
+42,,Company 42,"42 Main St, City 42",Contact 42,368-448-8475
+43,,Company 43 Limited,"43 Main St, City 43",Contact 43 Smith,476-282-2641
+44,,Company 44 Limited,"44 Main St, City 44",Contact 44 Smith,979-296-1511
+45,743032,Company 45 Ltd.,"45 Main Street, CT 45",Contact 45,449-523-5019
+46,163809,Company 46,"46 Main St, City 46",Contact 46 Smith,697-565-7260
+47,757995,Company 47 Ltd.,"47 Main St, City 47",Contact 47 Smith,566-889-7843
+48,112239,Company 48,"48 Main Street, CT 48",Contact 48 Smith,750-770-9067
+49,,Company 49 Limited,"49 Main St, City 49",Contact 49 Smith,506-256-6846
+50,,Company 50 Ltd.,"50 Main Street, CT 50",Contact 50,789-507-6484
+51,,Company 51,"51 Main St, City 51",Contact 51 Smith,741-425-7583
+52,,Company 52 Limited,"52 Main St, City 52",Contact 52,539-208-3266
+53,,Company 53 Limited,"53 Main Street, CT 53",Contact 53 Smith,493-301-7056
+54,,Company 54 Ltd.,"54 Main St, City 54",Contact 54,810-520-4493
+55,988371,Company 55,"55 Main St, City 55",Contact 55 Smith,704-661-1473
+56,,Company 56 Ltd.,"56 Main Street, CT 56",Contact 56 Smith,965-360-7347
+57,938480,Company 57,"57 Main St, City 57",Contact 57 Smith,873-239-3666
+58,173806,Company 58 Limited,"58 Main St, City 58",Contact 58,952-656-6364
+59,,Company 59 Ltd.,"59 Main Street, CT 59",Contact 59 Smith,316-239-1051
+60,466367,Company 60 Ltd.,"60 Main Street, CT 60",Contact 60 Smith,809-649-8972
+61,944195,Company 61 Limited,"61 Main Street, CT 61",Contact 61 Smith,209-953-1276
+62,,Company 62,"62 Main Street, CT 62",Contact 62 Smith,771-261-2439
+63,,Company 63 Ltd.,"63 Main Street, CT 63",Contact 63 Smith,798-296-9387
+64,784092,Company 64,"64 Main Street, CT 64",Contact 64,810-492-9108
+65,,Company 65,"65 Main St, City 65",Contact 65,537-313-9985
+66,668282,Company 66 Ltd.,"66 Main Street, CT 66",Contact 66,356-365-1324
+67,257732,Company 67 Limited,"67 Main Street, CT 67",Contact 67 Smith,692-863-3480
+68,919803,Company 68 Ltd.,"68 Main St, City 68",Contact 68,823-938-7095
+69,,Company 69 Limited,"69 Main St, City 69",Contact 69,406-333-4426
+70,,Company 70 Ltd.,"70 Main St, City 70",Contact 70,465-190-1597
+71,376445,Company 71 Limited,"71 Main St, City 71",Contact 71 Smith,344-221-1833
+72,969754,Company 72 Limited,"72 Main Street, CT 72",Contact 72,358-297-9034
+73,,Company 73 Limited,"73 Main St, City 73",Contact 73,804-354-5919
+74,565071,Company 74,"74 Main St, City 74",Contact 74,187-147-8835
+75,905614,Company 75,"75 Main St, City 75",Contact 75 Smith,742-802-8109
+76,,Company 76,"76 Main Street, CT 76",Contact 76,682-437-4321
+77,,Company 77,"77 Main St, City 77",Contact 77,410-687-1274
+78,,Company 78 Ltd.,"78 Main Street, CT 78",Contact 78,747-920-5387
+79,,Company 79,"79 Main St, City 79",Contact 79,949-380-4575
+80,,Company 80 Limited,"80 Main St, City 80",Contact 80 Smith,506-773-6011
+81,169068,Company 81 Limited,"81 Main Street, CT 81",Contact 81 Smith,431-975-1654
+82,,Company 82,"82 Main St, City 82",Contact 82,346-141-6682
+83,512037,Company 83 Ltd.,"83 Main St, City 83",Contact 83,316-401-4152
+84,288820,Company 84 Limited,"84 Main Street, CT 84",Contact 84 Smith,501-357-6947
+85,492153,Company 85 Ltd.,"85 Main Street, CT 85",Contact 85 Smith,586-675-9611
+86,,Company 86 Ltd.,"86 Main St, City 86",Contact 86,127-557-1506
+87,,Company 87 Ltd.,"87 Main Street, CT 87",Contact 87 Smith,281-771-3028
+88,903450,Company 88,"88 Main St, City 88",Contact 88,402-258-3831
+89,,Company 89,"89 Main Street, CT 89",Contact 89,298-685-3436
+90,,Company 90,"90 Main St, City 90",Contact 90,726-111-7927
+91,,Company 91,"91 Main Street, CT 91",Contact 91 Smith,308-113-7657
+92,763607,Company 92,"92 Main Street, CT 92",Contact 92,849-108-7561
+93,,Company 93 Limited,"93 Main Street, CT 93",Contact 93,173-712-4625
+94,,Company 94,"94 Main Street, CT 94",Contact 94 Smith,251-621-5140
+95,,Company 95 Limited,"95 Main St, City 95",Contact 95,590-823-1750
+96,,Company 96 Limited,"96 Main St, City 96",Contact 96 Smith,470-743-3447
+97,866258,Company 97 Limited,"97 Main St, City 97",Contact 97 Smith,940-222-7372
+98,384585,Company 98 Limited,"98 Main Street, CT 98",Contact 98,298-664-3776
+99,,Company 99 Ltd.,"99 Main St, City 99",Contact 99,637-542-3971
+100,309299,Company 100 Ltd.,"100 Main Street, CT 100",Contact 100 Smith,649-598-1595
