@@ -57,7 +57,7 @@ llm = ChatOpenAI(temperature=0)
 # --- 定义 Prompt 模板 ---
 prompt = ChatPromptTemplate.from_messages([
     ("system", "你是一个专业的供应链分析师。"),
-    ("human", """请访问以下网站内容，并告诉我这家公司提供的零部件分类。\
+    ("human", """请访问以下网站内容，并告诉我这家公司提供的汽车零部件分类。\
 格式必须是 JSON array，例如：["发动机", "车灯"]。\n\n\
 ⚠️ 请注意：**不要使用 Markdown 格式**，不要添加 ```json 代码块包装，只返回原始 JSON 数组。\n\n{page_content}""")
 ])
