@@ -1,0 +1,97 @@
+{
+  "formats": [
+    {
+      "fields": [
+        {
+          "fieldname": "Name",
+          "fieldtype": "Text"
+        },
+        {
+          "fieldname": "name_de",
+          "fieldtype": "Text"
+        }
+      ],
+      "formatname": "DEFAULT",
+      "outputlines": ["{*Name*}"],
+      "titleline": "{*Name*}"
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        "94ba500e479111f0a508acde48001122",
+        "9ef45696479111f0a508acde48001122",
+        "a4f2002a479111f0a508acde48001122"
+      ],
+      "data": {
+        "Name": "Main",
+        "name_de": "\u800c\u6211\u997f\u6211\u997f"
+      },
+      "format": "DEFAULT",
+      "uid": "1cc46960478f11f0a508acde48001122"
+    },
+    {
+      "children": [
+        "aa2b05e6479111f0a508acde48001122",
+        "ba95736c479111f0a508acde48001122"
+      ],
+      "data": {
+        "Name": "subMain1"
+      },
+      "format": "DEFAULT",
+      "uid": "94ba500e479111f0a508acde48001122"
+    },
+    {
+      "children": [],
+      "data": {
+        "Name": "subMain2"
+      },
+      "format": "DEFAULT",
+      "uid": "9ef45696479111f0a508acde48001122"
+    },
+    {
+      "children": ["c04762f2479111f0a508acde48001122"],
+      "data": {
+        "Name": "subMain3"
+      },
+      "format": "DEFAULT",
+      "uid": "a4f2002a479111f0a508acde48001122"
+    },
+    {
+      "children": ["b1c92080479111f0a508acde48001122"],
+      "data": {
+        "Name": "subMainMain1"
+      },
+      "format": "DEFAULT",
+      "uid": "aa2b05e6479111f0a508acde48001122"
+    },
+    {
+      "children": [],
+      "data": {
+        "Name": "subMainMainMain1"
+      },
+      "format": "DEFAULT",
+      "uid": "b1c92080479111f0a508acde48001122"
+    },
+    {
+      "children": [],
+      "data": {
+        "Name": "subMainMain2"
+      },
+      "format": "DEFAULT",
+      "uid": "ba95736c479111f0a508acde48001122"
+    },
+    {
+      "children": [],
+      "data": {
+        "Name": "subMainMain3"
+      },
+      "format": "DEFAULT",
+      "uid": "c04762f2479111f0a508acde48001122"
+    }
+  ],
+  "properties": {
+    "tlversion": "3.1.4",
+    "topnodes": ["1cc46960478f11f0a508acde48001122"]
+  }
+}
