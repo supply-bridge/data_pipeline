@@ -33,6 +33,7 @@ DB_CONFIGS = {
     },
 }
 
+
 def connect_to_db(env):
     """连接到数据库"""
     config = DB_CONFIGS.get(env)
@@ -45,6 +46,7 @@ def connect_to_db(env):
     except Exception as e:
         print(f"Error connecting to database ({env}): {e}")
         sys.exit(1)
+
 
 def process_suppliers(csv_file, offering_id, env, unlink=False):
     """处理supplier IDs的链接或解除链接"""
@@ -111,7 +113,7 @@ def process_suppliers(csv_file, offering_id, env, unlink=False):
 
 def main():
     parser = argparse.ArgumentParser(
-        description="Link or unlink suppliers to/from an offering using a CSV file"
+        description="Link or unlink suppliers to an offering node using a CSV file"
     )
     parser.add_argument(
         "csv_file", help="Path to CSV file containing supplier IDs"
@@ -119,7 +121,7 @@ def main():
     parser.add_argument(
         "offering_id",
         type=int,
-        help="ID of the offering to link/unlink suppliers to/from",
+        help="ID of the offering node to link/unlink suppliers to",
     )
     parser.add_argument(
         "--unlink",
