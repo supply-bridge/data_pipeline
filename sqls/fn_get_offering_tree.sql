@@ -12,6 +12,7 @@ AS $BODY$
 WITH RECURSIVE offering_tree AS (
     SELECT id, pid, 
            jsonb_build_object(
+			   'id', id,
                'name', name,
                'name_de', name_de,
                'description', description,
@@ -26,6 +27,7 @@ WITH RECURSIVE offering_tree AS (
     
     SELECT o.id, o.pid,
            jsonb_build_object(
+		       'id', o.id,
                'name', o.name,
                'name_de', o.name_de,
                'description', o.description,
@@ -71,7 +73,7 @@ SELECT jsonb_build_object(
                 )
                 FROM information_schema.columns
                 WHERE table_name = 'sb_offering'
-                AND column_name IN ('name', 'name_de', 'description', 'original_name', 'source', 'alternative_name')
+                AND column_name IN ('id', 'name', 'name_de', 'description', 'original_name', 'source', 'alternative_name')
             ),
             'formatname', 'DEFAULT',
             'outputlines', jsonb_build_array('{*name*}'),

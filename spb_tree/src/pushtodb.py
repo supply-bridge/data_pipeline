@@ -158,12 +158,12 @@ cursor.execute(upsert_sql)
 conn.commit()
 
 # # **执行 DELETE**
-# delete_sql = """
-# DELETE FROM sb_offering
-# WHERE id NOT IN (SELECT id FROM offering_load);
-# """
-# cursor.execute(delete_sql)
-# conn.commit()
+delete_sql = """
+DELETE FROM sb_offering
+WHERE id NOT IN (SELECT id FROM offering_load);
+"""
+cursor.execute(delete_sql)
+conn.commit()
 
 # **关闭数据库连接**
 cursor.close()
